@@ -10,6 +10,8 @@ This is intended to be an *incomplete* list of resources about visual regression
 
 Finally, I'm sure everyone who reads this list has one thing they want to add. Please read the [How to Contribute](.github/CONTRIBUTING.md) page and **Feel free to add to the list!!**. If you think this is helpful **Please give a Star ⭐️**.
 
+Teste
+
 ## Contents
 
 - [General information](#general-information)
